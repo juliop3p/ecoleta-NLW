@@ -13,12 +13,3 @@
 ## Mobile
 
 ![img](./readmeImages/Smartphone.png)
-
-## Proximos passos
-
-- [ ] Finalizar o CRUD das funcionalidades.
-- [ ] Aprimorar a validação.
-- [ ] Aprimorar a segurança Backend.
-- [ ] Implementar **Styled Component** no Front e Mobile.
-- [ ] Dark Theme.
-- [ ] Adicionar Testes.
